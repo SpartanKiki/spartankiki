@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Moreen 👋  
 
-<!--
-**SpartanKiki/spartankiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Backend Developer in Progress** | 💻 Passionate Learner | 🚀 Building my tech journey step by step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏾‍💻 About Me  
+I’m an IT graduate currently learning **backend development** and sharpening my skills in the command line, Git, and software engineering fundamentals.  
+
+I believe in learning by doing, and I’m using GitHub to document my progress, showcase projects, and connect with like-minded developers.  
+
+✨ My vision is to grow into a **skilled backend engineer** who builds impactful, scalable solutions and contributes to open-source communities.  
+
+---
+
+## 📂 Projects  
+
+Here are some of my repositories (more coming soon 🚀):  
+
+- 🔗 [**My First Repo**](https://github.com/SpartanKiki/YOUR_REPO_NAME) – Initial steps in backend dev & CLI practice  
+- 🛠️ More projects in progress... stay tuned!  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages:** Python (learning), JavaScript (beginner), Bash  
+- **Tools:** Git & GitHub, Linux CLI, Git Bash  
+- **Currently Exploring:** Backend APIs, Databases, Cloud basics  
+
+---
+
+## 🌍 Connect With Me  
+
+- 📧 Email: **nyaga6178@gmail.com**  
+- 💼 LinkedIn: [Moreen Kinyua](https://www.linkedin.com/in/moreen-kinyua/)  
+- 🐙 GitHub: [SpartanKiki](https://github.com/SpartanKiki)  
+
+---
+
+⭐️ *Thanks for stopping by! Feel free to check out my repos and connect. Together, we can learn and build amazing things.*  
