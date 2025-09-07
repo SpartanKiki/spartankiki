@@ -17,7 +17,7 @@ I believe in learning by doing, and I’m using GitHub to document my progress, 
 
 Here are some of my repositories (more coming soon 🚀):  
 
-- 🔗 [**My First Repo**](https://github.com/SpartanKiki/YOUR_REPO_NAME) – Initial steps in backend dev & CLI practice  
+- 🏠 [**Airbnb Clone Project**](https://github.com/SpartanKiki/airbnb-clone-project) – Practicing backend fundamentals through a full-stack project  
 - 🛠️ More projects in progress... stay tuned!  
 
 ---
@@ -33,7 +33,7 @@ Here are some of my repositories (more coming soon 🚀):
 ## 🌍 Connect With Me  
 
 - 📧 Email: **nyaga6178@gmail.com**  
-- 💼 LinkedIn: [Moreen Kinyua](https://www.linkedin.com/in/moreen-kinyua/)  
+- 💼 LinkedIn: [Moreen Nyaga](https://www.linkedin.com/in/moreen-nyaga/)  
 - 🐙 GitHub: [SpartanKiki](https://github.com/SpartanKiki)  
 
 ---
