@@ -1,32 +1,33 @@
 # Hi there, I'm Moreen 👋  
 
-🌱 **Backend Developer in Progress** | 💻 Passionate Learner | 🚀 Building my tech journey step by step  
+🌱 **Aspiring Backend Developer** | 💻 IT Specialist | 🚀 Building scalable, high-impact software solutions  
 
 ---
 
 ## 👩🏾‍💻 About Me  
-I’m an IT graduate currently learning **backend development** and sharpening my skills in the command line, Git, and software engineering fundamentals.  
+I’m an IT graduate with experience in **virtual assistance, IT systems, and backend development**. I’m sharpening my skills in Python, JavaScript, Linux CLI, Git, and software engineering fundamentals.  
 
-I believe in learning by doing, and I’m using GitHub to document my progress, showcase projects, and connect with like-minded developers.  
+I use GitHub to **document my learning journey, practice coding projects, and demonstrate problem-solving skills** while connecting with like-minded developers and contributing to open-source communities.  
 
-✨ My vision is to grow into a **skilled backend engineer** who builds impactful, scalable solutions and contributes to open-source communities.  
+✨ My goal is to become a **skilled backend engineer**, building impactful and scalable solutions, contributing to open-source projects, and continuously improving my technical expertise.
 
 ---
 
 ## 📂 Projects  
 
-Here are some of my repositories (more coming soon 🚀):  
+Here are some of my repositories showcasing ongoing practice and learning:  
 
 - 🏠 [**Airbnb Clone Project**](https://github.com/SpartanKiki/airbnb-clone-project) – Practicing backend fundamentals through a full-stack project  
+- ⚙️ [**First Feature Branch Test**](https://github.com/SpartanKiki/first-feature-branch-test) – Experimenting with Git branching and workflow  
 - 🛠️ More projects in progress... stay tuned!  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python (learning), JavaScript (beginner), Bash  
-- **Tools:** Git & GitHub, Linux CLI, Git Bash  
-- **Currently Exploring:** Backend APIs, Databases, Cloud basics  
+- **Languages:** Python (intermediate), JavaScript (beginner), Bash  
+- **Tools & Platforms:** Git & GitHub, Linux CLI, Git Bash  
+- **Currently Exploring:** Backend APIs, Databases, Cloud Computing, Software Engineering Practices  
 
 ---
 
@@ -38,5 +39,4 @@ Here are some of my repositories (more coming soon 🚀):
 
 ---
 
-⭐️ *Thanks for stopping by! Feel free to check out my repos and connect. Together, we can learn and build amazing things.*  
-My first feature branch test
+⭐️ *Thanks for stopping by! Feel free to explore my repositories, track my learning journey, and connect. Together, we can build amazing things.*
