@@ -1,42 +1,42 @@
-# Hi there, I'm Moreen 👋  
+# Hi there, I'm Moreen 👋
 
-🌱 **Aspiring Backend Developer** | 💻 IT Specialist | 🚀 Building scalable, high-impact software solutions  
-
----
-
-## 👩🏾‍💻 About Me  
-I’m an IT graduate with experience in **virtual assistance, IT systems, and backend development**. I’m sharpening my skills in Python, JavaScript, Linux CLI, Git, and software engineering fundamentals.  
-
-I use GitHub to **document my learning journey, practice coding projects, and demonstrate problem-solving skills** while connecting with like-minded developers and contributing to open-source communities.  
-
-✨ My goal is to become a **skilled backend engineer**, building impactful and scalable solutions, contributing to open-source projects, and continuously improving my technical expertise.
+🌱 Aspiring Backend Developer | 💻 IT Specialist | 🚀 Building scalable, high-impact software solutions
 
 ---
 
-## 📂 Projects  
+## 👩🏾‍💻 About Me
+I’m an IT graduate with experience in virtual assistance, IT systems, and backend development. I’m sharpening my skills in **Python, JavaScript, Linux CLI, Git**, and software engineering fundamentals.
 
-Here are some of my repositories showcasing ongoing practice and learning:  
+I use GitHub to **document my learning journey, practice coding projects, and demonstrate problem-solving skills** while connecting with like-minded developers and contributing to open-source communities.
+
+✨ My goal is to become a skilled backend engineer, building **impactful and scalable solutions**, contributing to open-source projects, and continuously improving my technical expertise.
+
+---
+
+## 📂 Projects
+Here are some of my repositories showcasing ongoing practice and learning:
 
 - 🏠 [**Airbnb Clone Project**](https://github.com/SpartanKiki/airbnb-clone-project) – Practicing backend fundamentals through a full-stack project  
-- ⚙️ [**First Feature Branch Test**](https://github.com/SpartanKiki/first-feature-branch-test) – Experimenting with Git branching and workflow  
+- ⚙️ [**First Feature Branch Test**](https://github.com/SpartanKiki/first-feature-branch) – Experimenting with Git branching and workflow  
 - 🛠️ More projects in progress... stay tuned!  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
+**Languages:** Python (intermediate), JavaScript (beginner), Bash  
+**Tools & Platforms:** Git & GitHub, Linux CLI, Git Bash  
+**Currently Exploring:** Backend APIs, Databases, Cloud Computing, Software Engineering Practices  
 
-- **Languages:** Python (intermediate), JavaScript (beginner), Bash  
-- **Tools & Platforms:** Git & GitHub, Linux CLI, Git Bash  
-- **Currently Exploring:** Backend APIs, Databases, Cloud Computing, Software Engineering Practices  
-
----
-
-## 🌍 Connect With Me  
-
-- 📧 Email: **nyaga6178@gmail.com**  
-- 💼 LinkedIn: [Moreen Nyaga](https://www.linkedin.com/in/moreen-nyaga/)  
-- 🐙 GitHub: [SpartanKiki](https://github.com/SpartanKiki)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpartanKiki&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpartanKiki&show_icons=true&theme=radical)
 
 ---
 
-⭐️ *Thanks for stopping by! Feel free to explore my repositories, track my learning journey, and connect. Together, we can build amazing things.*
+## 🌍 Connect With Me
+📧 Email: nyaga6178@gmail.com  
+💼 LinkedIn: [Moreen Nyaga](https://www.linkedin.com/in/moreen-nyaga/)  
+🐙 GitHub: [SpartanKiki](https://github.com/SpartanKiki)  
+
+---
+
+⭐️ Thanks for stopping by! Feel free to **explore my repositories, track my learning journey, and connect**. Together, we can build amazing things.
